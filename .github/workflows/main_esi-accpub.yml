@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ESI-AccPub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD9E6BEB01644AC5B14AD7B4B4DCCA96 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5B9AF75310448F6830B93ACF08036BF }}
           package: .
